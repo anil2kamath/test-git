@@ -1,3 +1,6 @@
 "Hello" 
 "How are you?" 
 I am fine
+java class
+python class
+credit functionality
