@@ -6,3 +6,6 @@ python class
 credit functionality
 debit functionality
 account summary
+transfer
+card details
+credit_card functionality
