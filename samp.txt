@@ -1,4 +1,4 @@
 I am a trainer
-I have a cake
-This is a new feature
-how are you?
+I have a cake and juice
+This is a new feature tested for a retail application
+welcome to Sean Academy
